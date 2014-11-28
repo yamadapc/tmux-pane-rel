@@ -3,6 +3,9 @@ tmux-pane-rel
 A helper for quickly resizing tmux panes to a percentage of a session's total
 width/height
 
+Here's what it looks like:
+![tmux-pane-rel-demo](/tmux-pane-rel-demo.gif)
+
 License
 -------
 This code is licensed under the MIT license for Pedro Tacla Yamada. Please refer
