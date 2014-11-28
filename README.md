@@ -6,6 +6,11 @@ width/height
 Here's what it looks like:
 ![tmux-pane-rel-demo](/tmux-pane-rel-demo.gif)
 
+## Usage
+```bash
+tmux-pane-rel --axis <axis=x|y> <percentage>
+```
+
 License
 -------
 This code is licensed under the MIT license for Pedro Tacla Yamada. Please refer
