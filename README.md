@@ -1,7 +1,8 @@
 tmux-pane-rel
 =============
 A helper for quickly resizing tmux panes to a percentage of a session's total
-width/height
+width/height (done while waiting for a heroku deployment - *the deployment logs
+were on a pane with the "improper" size, let's say*).
 
 Here's what it looks like:
 ![tmux-pane-rel-demo](/tmux-pane-rel-demo.gif)
