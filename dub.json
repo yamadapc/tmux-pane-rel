@@ -1,0 +1,10 @@
+{
+  "name": "tmux-pane-rel",
+  "description": "Helpers for resizing TMUX panes to relative values.",
+  "copyright": "Copyright © 2014, Pedro Tacla Yamada",
+  "authors": [
+    "Pedro Tacla Yamada"
+  ],
+  "dependencies": {
+  }
+}
