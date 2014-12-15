@@ -9,10 +9,6 @@ static immutable string usage = "Usage: tmux-pane-rel [options] <percentage>";
 enum axis { x, y }
 
 int main(string[] args) {
-  if(args.length == 1) {
-    writeln(usage);
-  }
-
   bool help;
   axis ax;
 
