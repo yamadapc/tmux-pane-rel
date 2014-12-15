@@ -1,4 +1,3 @@
-import std.algorithm;
 import std.conv : to;
 import std.getopt : getopt;
 import std.process : execute;
